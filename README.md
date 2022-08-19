@@ -86,9 +86,38 @@ Bank Logos(612 svg)
 <a href="http://www.srbank.cn"> <img src="./logos/srbank-rect.svg" width="42px" alt="上饶银行" title="上饶银行" /></a>
 <a href="http://www.sxccb.com"> <img src="./logos/sxccb-rect.svg" width="42px" alt="绍兴银行" title="绍兴银行" /></a>
 <a href="https://www.dzccb.com.cn"> <img src="./logos/dzccb-rect.svg" width="42px" alt="达州银行" title="达州银行" /></a>
-<a href="https://www.uobchina.com.cn"> <img src="./logos/uobchina-rect.svg" width="42px" alt="大华银行"/></a>
-<a href="http://www.dahsing.com"> <img src="./logos/dahsing-rect.svg" width="42px" alt="大新银行"/></a>
-<a href="https://www.ordosbank.com"> <img src="./logos/ordosbank-rect.svg" width="42px" alt="鄂尔多斯银行"/></a>
+<a href="https://www.uobchina.com.cn"> <img src="./logos/uobchina-rect.svg" width="42px" alt="大华银行" title="大华银行" /></a>
+<a href="http://www.dahsing.com"> <img src="./logos/dahsing-rect.svg" width="42px" alt="大新银行" title="大新银行" /></a>
+<a href="https://www.ordosbank.com"> <img src="./logos/ordosbank-rect.svg" width="42px" alt="鄂尔多斯银行" title="鄂尔多斯银行" /></a>
+<a href="http://www.gzccb.com"> <img src="./logos/gzccb-rect.svg" width="42px" alt="赣州银行" title="赣州银行" /></a>
+<a href="https://www.fuxinbank.com"> <img src="./logos/fuxinbank-rect.svg" width="42px" alt="阜新银行" title="阜新银行" /></a>
+<a href="https://www.bankoffs.com.cn"> <img src="./logos/bankoffs-rect.svg" width="42px" alt="抚顺银行" title="抚顺银行" /></a>
+<a href="https://www.hkbea.com.cn"> <img src="./logos/hkbea-rect.svg" width="42px" alt="东亚银行" title="东亚银行" /></a>
+<a href="https://www.dyccb.net"> <img src="./logos/dyccb-rect.svg" width="42px" alt="东营银行" title="东营银行" /></a>
+<a href="https://www.drcbank.com"> <img src="./logos/drcbank-rect.svg" width="42px" alt="东莞农商" title="东莞农商" /></a>
+<a href="http://www.dongguanbank.cn"> <img src="./logos/dongguanbank-rect.svg" width="42px" alt="东莞银行" title="东莞银行" /></a>
+<a href="http://www.dzbchina.com"> <img src="./logos/dzbchina-rect.svg" width="42px" alt="德州银行" title="德州银行" /></a>
+<a href="https://www.hanabank.cn"> <img src="./logos/hanabank-rect.svg" width="42px" alt="韩亚银行" title="韩亚银行" /></a>
+<a href="http://www.hkbchina.com"> <img src="./logos/hkbchina-rect.svg" width="42px" alt="汉口银行" title="汉口银行" /></a>
+<a href="http://www.hebbank.com"> <img src="./logos/hebbank-rect.svg" width="42px" alt="河北银行" title="河北银行" /></a>
+<a href="https://www.boy.co.jp"> <img src="./logos/boy-rect.svg" width="42px" alt="横滨银行" title="横滨银行" /></a>
+<a href="http://www.hzbank.com.cn"> <img src="./logos/hzbank-rect.svg" width="42px" alt="杭州银行" title="杭州银行" /></a>
+<a href="http://www.hzccb.net"> <img src="./logos/hzccb-rect.svg" width="42px" alt="湖州银行" title="湖州银行" /></a>
+<a href="http://www.hubeibank.cn"> <img src="./logos/hubeibank-rect.svg" width="42px" alt="湖北银行" title="湖北银行" /></a>
+<a href="https://www.hangseng.com"> <img src="./logos/hangseng-rect.svg" width="42px" alt="恒生银行" title="恒生银行" /></a>
+<a href="https://www.hsbc.com.cn"> <img src="./logos/hsbc-rect.svg" width="42px" alt="汇丰银行" title="汇丰银行" /></a>
+<a href="https://www.ocbc.com.cn"> <img src="./logos/ocbc-rect.svg" width="42px" alt="华侨银行" title="华侨银行" /></a>
+<a href="http://www.jlbank.com.cn"> <img src="./logos/jlbank-rect.svg" width="42px" alt="吉林银行" title="吉林银行" /></a>
+<a href="https://www.jn-bank.com"> <img src="./logos/jn-bank-rect.svg" width="42px" alt="济宁银行" title="济宁银行" /></a>
+<a href="http://www.jmrcb.net"> <img src="./logos/jmrcb-rect.svg" width="42px" alt="江门农商" title="江门农商" /></a>
+<a href="http://www.hsbank.com.cn"> <img src="./logos/hsbank-rect.svg" width="42px" alt="徽商银行" title="徽商银行" /></a>
+<a href="http://www.bohuihe.com"> <img src="./logos/bohuihe-rect.svg" width="42px" alt="汇和银行" title="汇和银行" /></a>
+<a href="http://www.jybank.com.cn"> <img src="./logos/jybank-rect.svg" width="42px" alt="江阴农商" title="江阴农商" /></a>
+<a href="http://www.jshbank.com"> <img src="./logos/jshbank-rect.svg" width="42px" alt="晋商银行" title="晋商银行" /></a>
+<a href="http://www.bankyellowriver.com"> <img src="./logos/bankyellowriver-rect.svg" width="42px" alt="黄河农商" title="黄河农商" /></a>
+<a href="http://www.crbank.com.cn"> <img src="./logos/crbank-rect.svg" width="42px" alt="华润银行" title="华润银行" /></a>
+<a href="https://www.citibank.com.cn"> <img src="./logos/citibank-rect.svg" width="42px" alt="花旗银行" title="花旗银行" /></a>
+<a href="https://www.eastwestbank.com.cn"> <img src="./logos/eastwestbank-rect.svg" width="42px" alt="华美银行" title="华美银行" /></a>
 
 ```jsx
 import { BLAbchina } from '@icongo/bl';
