@@ -153,7 +153,6 @@ Bank Logos(612 svg)
 <a href="http://www.nanhaibank.com"> <img src="./logos/nanhaibank-rect.svg" width="42px" alt="南海农商" title="南海农商" /></a>
 <a href="https://www.jpmorganchina.com.cn"> <img src="./logos/jpmorganchina-rect.svg" width="42px" alt="摩根大通银行" title="摩根大通银行" /></a>
 <a href="https://www.lsbchina.com"> <img src="./logos/lsbchina-rect.svg" width="42px" alt="临商银行" title="临商银行" /></a>
-<a href="https://www.scbank.com"> <img src="./logos/scbank-rect.svg" width="42px" alt="凉山商业银行" title="凉山商业银行" /></a>
 <a href="https://www.o-bank.com"> <img src="./logos/o-bank-rect.svg" width="42px" alt="王道银行" title="王道银行" /></a>
 <a href="http://www.tjbhb.com"> <img src="./logos/tjbhb-rect.svg" width="42px" alt="天津滨海农商" title="天津滨海农商" /></a>
 <a href="http://www.ts-bank.cn"> <img src="./logos/ts-bank-rect.svg" width="42px" alt="唐山银行" title="唐山银行" /></a>
