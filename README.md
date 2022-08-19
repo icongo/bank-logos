@@ -157,7 +157,7 @@ Bank Logos(612 svg)
 <a href="http://www.tjbhb.com"> <img src="./logos/tjbhb-rect.svg" width="42px" alt="天津滨海农商" title="天津滨海农商" /></a>
 <a href="http://www.ts-bank.cn"> <img src="./logos/ts-bank-rect.svg" width="42px" alt="唐山银行" title="唐山银行" /></a>
 <a href="https://www.taccb.com.cn"> <img src="./logos/taccb-rect.svg" width="42px" alt="泰安银行" title="泰安银行" /></a>
-<a href="http://www.zjtlcb.com"> <img src="./logos/taccb-rect.svg" width="42px" alt="泰隆银行" title="泰隆银行" /></a>
+<a href="http://www.zjtlcb.com"> <img src="./logos/zjtlcb-rect.svg" width="42px" alt="泰隆银行" title="泰隆银行" /></a>
 <a href="http://www.wuhaicb.com"> <img src="./logos/wuhaicb-rect.svg" width="42px" alt="乌海银行" title="乌海银行" /></a>
 <a href="http://www.xynsh.com"> <img src="./logos/xynsh-rect.svg" width="42px" alt="新沂农商" title="新沂农商" /></a>
 <a href="https://www.dbs.com.cn"> <img src="./logos/dbs-rect.svg" width="42px" alt="星展银行" title="星展银行" /></a>
