@@ -23,6 +23,7 @@ Bank Logos(svg)
 <a href="https://www.spdb.com.cn"> <img src="./logos/spdb-rect.svg" width="42px" alt="浦发银行"/></a>
 <a href="https://www.cib.com.cn"> <img src="./logos/cib-rect.svg" width="42px" alt="兴业银行"/></a>
 <a href="http://www.cbhb.com.cn"> <img src="./logos/cbhb-rect.svg" width="42px" alt="渤海银行"/></a>
+<a href="https://www.hfbank.com.cn"> <img src="./logos/hfbank-rect.svg" width="42px" alt="恒丰银行"/></a>
 
 [![中国人民银行](./logos/pbc.svg)](http://www.pbc.gov.cn)
 [![中国银行](./logos/boc.svg)](https://www.boc.cn)
@@ -46,3 +47,4 @@ Bank Logos(svg)
 [![浦发银行](./logos/spdb.svg)](https://www.spdb.com.cn)
 [![兴业银行](./logos/cib.svg)](https://www.cib.com.cn)
 [![渤海银行](./logos/cbhb.svg)](http://www.cbhb.com.cn)
+[![恒丰银行](./logos/hfbank.svg)](https://www.hfbank.com.cn)
