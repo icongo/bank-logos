@@ -20,6 +20,7 @@ Bank Logos(svg)
 <a href="https://www.cmbc.com.cn/"> <img src="./logos/cmbc-rect.svg" width="42px" alt="中国民生银行"/></a>
 <a href="https://bank.pingan.com/"> <img src="./logos/pingan-rect.svg" width="42px" alt="平安银行"/></a>
 <a href="https://www.hxb.com.cn"> <img src="./logos/hxb-rect.svg" width="42px" alt="华夏银行"/></a>
+<a href="https://www.spdb.com.cn"> <img src="./logos/spdb-rect.svg" width="42px" alt="浦发银行"/></a>
 
 [![中国人民银行](./logos/pbc.svg)](http://www.pbc.gov.cn)
 [![中国银行](./logos/boc.svg)](https://www.boc.cn)
@@ -40,3 +41,4 @@ Bank Logos(svg)
 [![中国民生银行](./logos/cmbc.svg)](https://www.cmbc.com.cn)
 [![平安银行](./logos/pingan.svg)](https://bank.pingan.com)
 [![华夏银行](./logos/hxb.svg)](https://www.hxb.com.cn)
+[![浦发银行](./logos/spdb.svg)](https://www.spdb.com.cn)
