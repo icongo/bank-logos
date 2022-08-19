@@ -144,10 +144,29 @@ Bank Logos(612 svg)
 <a href="http://www.hnnxs.com"> <img src="./logos/hnnxs-rect.svg" width="42px" alt="湖南省农村信用社" title="湖南省农村信用社" /></a>
 <a href="https://www.tcb-bank.com.tw"> <img src="./logos/tcb-bank-rect.svg" width="42px" alt="合作金库银行" title="合作金库银行" /></a>
 <a href="https://www.cathaybk.com.cn"> <img src="./logos/cathaybk-rect.svg" width="42px" alt="国泰世华银行" title="国泰世华银行" /></a>
+<a href="https://www.bankofamerica.com"> <img src="./logos/bankofamerica-rect.svg" width="42px" alt="美国银行" title="美国银行" /></a>
+<a href="https://www.bmo.com"> <img src="./logos/bmo-rect.svg" width="42px" alt="蒙特利尔银行" title="蒙特利尔银行" /></a>
+<a href="https://www.bangkokbank.com.cn"> <img src="./logos/bangkokbank-rect.svg" width="42px" alt="盘谷银行" title="盘谷银行" /></a>
+<a href="https://www.qhdbank.cn"> <img src="./logos/qhdbank-rect.svg" width="42px" alt="秦皇岛银行" title="秦皇岛银行" /></a>
+<a href="https://www.qsbank.cc"> <img src="./logos/qsbank-rect.svg" width="42px" alt="齐商银行" title="齐商银行" /></a>
+<a href="http://www.qingbank.cn"> <img src="./logos/qingbank-rect.svg" width="42px" alt="清远农商" title="清远农商" /></a>
+<a href="http://www.nanhaibank.com"> <img src="./logos/nanhaibank-rect.svg" width="42px" alt="南海农商" title="南海农商" /></a>
+<a href="https://www.jpmorganchina.com.cn"> <img src="./logos/jpmorganchina-rect.svg" width="42px" alt="摩根大通银行" title="摩根大通银行" /></a>
+<a href="https://www.lsbchina.com"> <img src="./logos/lsbchina-rect.svg" width="42px" alt="临商银行" title="临商银行" /></a>
+<a href="https://www.scbank.com"> <img src="./logos/scbank-rect.svg" width="42px" alt="凉山商业银行" title="凉山商业银行" /></a>
+<a href="https://www.o-bank.com"> <img src="./logos/o-bank-rect.svg" width="42px" alt="王道银行" title="王道银行" /></a>
+<a href="http://www.tjbhb.com"> <img src="./logos/tjbhb-rect.svg" width="42px" alt="天津滨海农商" title="天津滨海农商" /></a>
+<a href="http://www.ts-bank.cn"> <img src="./logos/ts-bank-rect.svg" width="42px" alt="唐山银行" title="唐山银行" /></a>
+<a href="https://www.taccb.com.cn"> <img src="./logos/taccb-rect.svg" width="42px" alt="泰安银行" title="泰安银行" /></a>
+<a href="http://www.zjtlcb.com"> <img src="./logos/taccb-rect.svg" width="42px" alt="泰隆银行" title="泰隆银行" /></a>
+<a href="http://www.wuhaicb.com"> <img src="./logos/wuhaicb-rect.svg" width="42px" alt="乌海银行" title="乌海银行" /></a>
+<a href="http://www.xynsh.com"> <img src="./logos/xynsh-rect.svg" width="42px" alt="新沂农商" title="新沂农商" /></a>
+<a href="https://www.dbs.com.cn"> <img src="./logos/dbs-rect.svg" width="42px" alt="星展银行" title="星展银行" /></a>
 
 ```jsx
-import { BLAbchina } from '@icongo/bl';
-import { BLBankcomm } from '@icongo/bl/lib/BLBankcomm';
+import { BLBankcomm } from '@icongo/bl';
+import { BLAbchinaRect } from '@icongo/bl/lib/BLAbchinaRect';
+import { BLAbchina } from '@icongo/bl/lib/BLAbchina';
 import data from '@icongo/bl/data.json';
 import names from '@icongo/bl/names.json';
 ```
