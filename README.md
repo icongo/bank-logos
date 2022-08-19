@@ -16,21 +16,27 @@ Bank Logos(svg)
 <a href="http://www.bankofbeijing.com.cn/"> <img src="./icons/bankofbeijing.svg" width="42px" alt="北京银行"/></a>
 <a href="http://www.cgbchina.com.cn/"> <img src="./icons/cgbchina.svg" width="42px" alt="广发银行"/></a>
 <a href="http://www.cebbank.com/"> <img src="./icons/cebbank.svg" width="42px" alt="中国光大银行"/></a>
-<a href="http://www.eximbank.com/"> <img src="./icons/eximbank.svg" width="42px" alt="中国进出口银行"/></a>
+<a href="http://www.eximbank.gov.cn/"> <img src="./icons/eximbank.svg" width="42px" alt="中国进出口银行"/></a>
+<a href="https://www.cmbc.com.cn/"> <img src="./icons/cmbc.svg" width="42px" alt="中国民生银行"/></a>
+<a href="https://bank.pingan.com/"> <img src="./icons/pingan.svg" width="42px" alt="平安银行"/></a>
+<a href="https://www.hxb.com.cn"> <img src="./icons/hxb.svg" width="42px" alt="华夏银行"/></a>
 
-[![中国人民银行](./logos/pbc.svg)](http://www.pbc.gov.cn/)
-[![中国银行](./logos/boc.svg)](https://www.boc.cn/)
-[![中国工商银行](./logos/icbc.svg)](http://www.icbc.com.cn/icbc/)
-[![中国农业银行](./logos/abchina.svg)](https://www.abchina.com/)
-[![中国建设银行](./logos/ccb.svg)](http://www.ccb.com/)
-[![交通银行](./logos/bankcomm.svg)](http://www.bankcomm.com/)
-[![上海银行](./logos/bosc.svg)](https://www.bosc.cn/)
-[![国家开发银行](./logos/cdb.svg)](http://www.cdb.com.cn/)
-[![中信银行](./logos/citicbank.svg)](https://www.citicbank.com/)
-[![招商银行](./logos/cmbchina.svg)](https://www.cmbchina.com/)
-[![江苏银行](./logos/jsbchina.svg)](http://www.jsbchina.cn/)
-[![中国邮政储蓄银行](./logos/psbc.svg)](https://www.psbc.com/cn/)
-[![北京银行](./logos/bankofbeijing.svg)](http://www.bankofbeijing.com.cn/)
-[![广发银行](./logos/cgbchina.svg)](http://www.cgbchina.com.cn/)
-[![中国光大银行](./logos/cebbank.svg)](http://www.cebbank.com/)
-[![中国进出口银行](./logos/eximbank.svg)](http://www.eximbank.gov.cn/)
+[![中国人民银行](./logos/pbc.svg)](http://www.pbc.gov.cn)
+[![中国银行](./logos/boc.svg)](https://www.boc.cn)
+[![中国工商银行](./logos/icbc.svg)](http://www.icbc.com.cn/icbc)
+[![中国农业银行](./logos/abchina.svg)](https://www.abchina.com)
+[![中国建设银行](./logos/ccb.svg)](http://www.ccb.com)
+[![交通银行](./logos/bankcomm.svg)](http://www.bankcomm.com)
+[![上海银行](./logos/bosc.svg)](https://www.bosc.cn)
+[![国家开发银行](./logos/cdb.svg)](http://www.cdb.com.cn)
+[![中信银行](./logos/citicbank.svg)](https://www.citicbank.com)
+[![招商银行](./logos/cmbchina.svg)](https://www.cmbchina.com)
+[![江苏银行](./logos/jsbchina.svg)](http://www.jsbchina.cn)
+[![中国邮政储蓄银行](./logos/psbc.svg)](https://www.psbc.com/cn)
+[![北京银行](./logos/bankofbeijing.svg)](http://www.bankofbeijing.com.cn)
+[![广发银行](./logos/cgbchina.svg)](http://www.cgbchina.com.cn)
+[![中国光大银行](./logos/cebbank.svg)](http://www.cebbank.com)
+[![中国进出口银行](./logos/eximbank.svg)](http://www.eximbank.gov.cn)
+[![中国民生银行](./logos/cmbc.svg)](https://www.cmbc.com.cn)
+[![平安银行](./logos/pingan.svg)](https://bank.pingan.com)
+[![华夏银行](./logos/hxb.svg)](https://www.hxb.com.cn)
