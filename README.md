@@ -118,6 +118,32 @@ Bank Logos(612 svg)
 <a href="http://www.crbank.com.cn"> <img src="./logos/crbank-rect.svg" width="42px" alt="华润银行" title="华润银行" /></a>
 <a href="https://www.citibank.com.cn"> <img src="./logos/citibank-rect.svg" width="42px" alt="花旗银行" title="花旗银行" /></a>
 <a href="https://www.eastwestbank.com.cn"> <img src="./logos/eastwestbank-rect.svg" width="42px" alt="华美银行" title="华美银行" /></a>
+<a href="https://www.grcbank.com"> <img src="./logos/grcbank-rect.svg" width="42px" alt="广东农商" title="广东农商" /></a>
+<a href="http://www.gsbankchina.com"> <img src="./logos/gsbankchina-rect.svg" width="42px" alt="甘肃银行" title="甘肃银行" /></a>
+<a href="https://www.foshanbank.cn"> <img src="./logos/foshanbank-rect.svg" width="42px" alt="佛山农商" title="佛山农商" /></a>
+<a href="http://www.ccqtgb.com"> <img src="./logos/ccqtgb-rect.svg" width="42px" alt="重庆三峡银行" title="重庆三峡银行" /></a>
+<a href="https://www.urcb.com"> <img src="./logos/urcb-rect.svg" width="42px" alt="杭州联合银行" title="杭州联合银行" /></a>
+<a href="http://hznsyh.com"> <img src="./logos/hznsyh-rect.svg" width="42px" alt="惠州农商" title="惠州农商" /></a>
+<a href="http://www.bankofhld.com"> <img src="./logos/bankofhld-rect.svg" width="42px" alt="葫芦岛银行" title="葫芦岛银行" /></a>
+<a href="http://www.cmbcn.com.cn"> <img src="./logos/cmbcn-rect.svg" width="42px" alt="华商银行" title="华商银行" /></a>
+<a href="http://www.hrxjbank.com.cn"> <img src="./logos/hrxjbank-rect.svg" width="42px" alt="华融湘江银行" title="华融湘江银行" /></a>
+<a href="http://www.jhccb.com.cn"> <img src="./logos/jhccb-rect.svg" width="42px" alt="金华银行" title="金华银行" /></a>
+<a href="http://www.syrcb.net"> <img src="./logos/syrcb-rect.svg" width="42px" alt="江苏射阳农商银行" title="江苏射阳农商银行" /></a>
+<a href="http://www.fudian-bank.com"> <img src="./logos/fudian-rect.svg" width="42px" alt="富滇银行" title="富滇银行" /></a>
+<a href="http://www.ghbank.com.cn"> <img src="./logos/ghbank-rect.svg" width="42px" alt="广东华兴银行" title="广东华兴银行" /></a>
+<a href="https://www.bankofbbg.com"> <img src="./logos/bankofbbg-rect.svg" width="42px" alt="广西北部湾银行" title="广西北部湾银行" /></a>
+<a href="http://www.gdnybank.com"> <img src="./logos/gdnybank-rect.svg" width="42px" alt="广东南粤银行" title="广东南粤银行" /></a>
+<a href="https://www.fubonchina.com"> <img src="./logos/fubonchina-rect.svg" width="42px" alt="富邦华一银行" title="富邦华一银行" /></a>
+<a href="https://sogeonline.societegenerale.cn"> <img src="./logos/societegenerale-rect.svg" width="42px" alt="法兴银行" title="法兴银行" /></a>
+<a href="https://www.firstbank.com.tw"> <img src="./logos/firstbank-rect.svg" width="42px" alt="第一银行" title="第一银行" /></a>
+<a href="http://www.fjhxbank.com"> <img src="./logos/fjhxbank-rect.svg" width="42px" alt="福建海峡银行" title="福建海峡银行" /></a>
+<a href="https://china.db.com"> <img src="./logos/chinadb-rect.svg" width="42px" alt="德意志银行" title="德意志银行" /></a>
+<a href="http://www.jhrcbank.com"> <img src="./logos/jhrcbank-rect.svg" width="42px" alt="建湖农商" title="建湖农商" /></a>
+<a href="https://www.scotiabank.com"> <img src="./logos/scotiabank-rect.svg" width="42px" alt="加拿大丰业银行" title="加拿大丰业银行" /></a>
+<a href="https://www.ocbc.com.cn"> <img src="./logos/ocbc-rect.svg" width="42px" alt="华侨永亨银行" title="华侨永亨银行" /></a>
+<a href="http://www.hnnxs.com"> <img src="./logos/hnnxs-rect.svg" width="42px" alt="湖南省农村信用社" title="湖南省农村信用社" /></a>
+<a href="https://www.tcb-bank.com.tw"> <img src="./logos/tcb-bank-rect.svg" width="42px" alt="合作金库银行" title="合作金库银行" /></a>
+<a href="https://www.cathaybk.com.cn"> <img src="./logos/cathaybk-rect.svg" width="42px" alt="国泰世华银行" title="国泰世华银行" /></a>
 
 ```jsx
 import { BLAbchina } from '@icongo/bl';
