@@ -25,6 +25,7 @@ Bank Logos(svg)
 <a href="http://www.cbhb.com.cn"> <img src="./logos/cbhb-rect.svg" width="42px" alt="渤海银行"/></a>
 <a href="https://www.hfbank.com.cn"> <img src="./logos/hfbank-rect.svg" width="42px" alt="恒丰银行"/></a>
 <a href="https://www.njcb.com.cn"> <img src="./logos/njcb-rect.svg" width="42px" alt="南京银行"/></a>
+<a href="http://www.gzcb.com.cn"> <img src="./logos/gzcb-rect.svg" width="42px" alt="广州银行"/></a>
 
 
 
@@ -52,3 +53,4 @@ Bank Logos(svg)
 <a href="http://www.cbhb.com.cn"> <img src="./logos/cbhb.svg" width="135px" alt="渤海银行"/></a>
 <a href="https://www.hfbank.com.cn"> <img src="./logos/hfbank.svg" width="135px" alt="恒丰银行"/></a>
 <a href="https://www.njcb.com.cn"> <img src="./logos/njcb.svg" width="135px" alt="南京银行"/></a>
+<a href="http://www.gzcb.com.cn"> <img src="./logos/gzcb.svg" width="135px" alt="广州银行"/></a>
