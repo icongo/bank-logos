@@ -48,11 +48,11 @@ Bank Logos(svg)
 <a href="https://www.mintaibank.com/"> <img src="./logos/mintaibank-rect.svg" width="42px" alt="浙江民泰商行"/></a>
 <a href="http://www.zj96596.com/"> <img src="./logos/zj96596-rect.svg" width="42px" alt="浙江农村信用社联合社"/></a>
 <a href="http://www.xmbankonline.com"> <img src="./logos/xmbankonline-rect.svg" width="42px" alt="浙江农村信用社联合社"/></a>
-<a href="http://www.trcbank.com.cn/"> <img src="./logos/trcbank-rect.svg" width="135px" alt="天津农商"/></a>
-<a href="https://www.bankoftianjin.com"> <img src="./logos/bankoftianjin-rect.svg" width="135px" alt="天津农商"/></a>
-<a href="http://www.wzcb.com.cn"> <img src="./logos/wzcb-rect.svg" width="135px" alt="温州银行"/></a>
-<a href="http://www.bankwf.com/"> <img src="./logos/bankwf-rect.svg" width="135px" alt="潍坊银行"/></a>
-<a href="http://www.wrcb.com.cn"> <img src="./logos/wrcb-rect.svg" width="135px" alt="无锡农商"/></a>
+<a href="http://www.trcbank.com.cn/"> <img src="./logos/trcbank-rect.svg" width="42px" alt="天津农商"/></a>
+<a href="https://www.bankoftianjin.com"> <img src="./logos/bankoftianjin-rect.svg" width="42px" alt="天津农商"/></a>
+<a href="http://www.wzcb.com.cn"> <img src="./logos/wzcb-rect.svg" width="42px" alt="温州银行"/></a>
+<a href="http://www.bankwf.com/"> <img src="./logos/bankwf-rect.svg" width="42px" alt="潍坊银行"/></a>
+<a href="http://www.wrcb.com.cn"> <img src="./logos/wrcb-rect.svg" width="42px" alt="无锡农商"/></a>
 
 
 <a href="http://www.pbc.gov.cn/"> <img src="./logos/pbc.svg" width="135px" alt="中国人民银行"/></a>
