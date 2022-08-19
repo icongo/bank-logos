@@ -200,6 +200,44 @@ import names from '@icongo/bl/names.json';
 <a href="https://www.bankcz.com"> <img src="./logos/bankcz.svg" width="135px" alt="沧州银行"/></a>
 <a href="https://www.lccb.com.cn"> <img src="./logos/lccb.svg" width="135px" alt="廊坊银行"/></a>
 <a href="http://www.chengdebank.com"> <img src="./logos/chengdebank.svg" width="135px" alt="承德银行"/></a>
+<a href="http://www.scnhh.com"> <img src="./logos/scnhh.svg" width="135px" alt="安徽舒城农村商业银行" title="安徽舒城农村商业银行" /></a>
+<a href="http://www.bankofas.com"> <img src="./logos/bankofas.svg" width="135px" alt="鞍山银行" title="鞍山银行" /></a>
+<a href="http://www.zgbank.com.cn"> <img src="./logos/zgbank.svg" width="135px" alt="自贡银行" title="自贡银行" /></a>
+<a href="http://www.zhnsb.com.cn"> <img src="./logos/zhnsb.svg" width="135px" alt="珠海农商银行" title="珠海农商银行" /></a>
+<a href="http://www.zybank.com.cn"> <img src="./logos/zybank.svg" width="135px" alt="中原银行" title="中原银行" /></a>
+<a href="http://www.zsebank.com"> <img src="./logos/zsebank.svg" width="135px" alt="中山农商" title="中山农商" /></a>
+<a href="https://www.china-cba.net"> <img src="./logos/china-cba.svg" width="135px" alt="中国银行业协会" title="中国银行业协会" /></a>
+<a href="http://www.norincogroup.com.cn"> <img src="./logos/norincogroup.svg" width="135px" alt="中国银行业协会" title="中国银行业协会" /></a>
+<a href="http://www.sgb.cn"> <img src="./logos/sgb.svg" width="135px" alt="中德住房储蓄银行" title="中德住房储蓄银行" /></a>
+<a href="http://www.zzbank.cn"> <img src="./logos/zzbank.svg" width="135px" alt="郑州银行" title="郑州银行" /></a>
+<a href="http://www.cscb.cn"> <img src="./logos/cscb.svg" width="135px" alt="长沙银行" title="长沙银行" /></a>
+<a href="https://www.megabank.com.tw"> <img src="./logos/megabank.svg" width="135px" alt="兆丰国际商业银行" title="兆丰国际商业银行" /></a>
+<a href="https://www.czcb.com.cn"> <img src="./logos/czcb.svg" width="135px" alt="浙江稠州商业银行" title="浙江稠州商业银行" /></a>
+<a href="https://www.mintaibank.com"> <img src="./logos/mintaibank.svg" width="135px" alt="浙江民泰商行" title="浙江民泰商行" /></a>
+<a href="http://www.zj96596.com"> <img src="./logos/zj96596.svg" width="135px" alt="浙江农村信用社联合社" title="浙江农村信用社联合社" /></a>
+<a href="http://www.xmbankonline.com"> <img src="./logos/xmbankonline.svg" width="135px" alt="浙江农村信用社联合社" title="浙江农村信用社联合社" /></a>
+<a href="http://www.trcbank.com.cn"> <img src="./logos/trcbank.svg" width="135px" alt="天津农商" title="天津农商" /></a>
+<a href="https://www.bankoftianjin.com"> <img src="./logos/bankoftianjin.svg" width="135px" alt="天津农商" title="天津农商" /></a>
+<a href="http://www.wzcb.com.cn"> <img src="./logos/wzcb.svg" width="135px" alt="温州银行" title="温州银行" /></a>
+<a href="http://www.bankwf.com"> <img src="./logos/bankwf.svg" width="135px" alt="潍坊银行" title="潍坊银行" /></a>
+<a href="http://www.wrcb.com.cn"> <img src="./logos/wrcb.svg" width="135px" alt="无锡农商" title="无锡农商" /></a>
+<a href="http://www.jx-bank.com"> <img src="./logos/jx-bank.svg" width="135px" alt="江西银行" title="江西银行" /></a>
+<a href="https://www.jinzhoubank.com"> <img src="./logos/jinzhoubank.svg" width="135px" alt="锦州银行" title="锦州银行" /></a>
+<a href="https://www.lzbank.com"> <img src="./logos/lzbank.svg" width="135px" alt="兰州银行" title="兰州银行" /></a>
+<a href="https://www.lzccb.cn"> <img src="./logos/lzccb.svg" width="135px" alt="泸州银行" title="泸州银行" /></a>
+<a href="https://www.lsbankchina.com"> <img src="./logos/lsbankchina.svg" width="135px" alt="莱商银行" title="莱商银行" /></a>
+<a href="http://www.lsccb.com"> <img src="./logos/lsccb.svg" width="135px" alt="乐山市商业银行" title="乐山市商业银行" /></a>
+<a href="http://www.klb.cn"> <img src="./logos/klb.svg" width="135px" alt="昆仑银行" title="昆仑银行" /></a>
+<a href="http://www.ksrcb.cn"> <img src="./logos/ksrcb.svg" width="135px" alt="昆山农商" title="昆山农商" /></a>
+<a href="https://www.jjccb.com"> <img src="./logos/jjccb.svg" width="135px" alt="九江银行" title="九江银行" /></a>
+<a href="http://www.nbcb.com.cn"> <img src="./logos/nbcb.svg" width="135px" alt="宁波银行" title="宁波银行" /></a>
+<a href="http://www.bankofnx.com.cn"> <img src="./logos/bankofnx.svg" width="135px" alt="宁夏银行" title="宁夏银行" /></a>
+<a href="http://www.gzcb.com.cn"> <img src="./logos/gzcb.svg" width="135px" alt="广州银行" title="广州银行" /></a>
+<a href="https://www.bankgy.cn"> <img src="./logos/bankgy.svg" width="135px" alt="贵阳银行" title="贵阳银行" /></a>
+<a href="https://www.bgzchina.com"> <img src="./logos/bgzchina.svg" width="135px" alt="贵州银行" title="贵州银行" /></a>
+<a href="http://www.bankofdl.com"> <img src="./logos/bankofdl.svg" width="135px" alt="大连银行" title="大连银行" /></a>
+<a href="https://www.bjrcb.com"> <img src="./logos/bjrcb.svg" width="135px" alt="北京农商银行" title="北京农商银行" /></a>
+<a href="http://www.bd-bank.com.cn"> <img src="./logos/bd-bank.svg" width="135px" alt="保定银行" title="保定银行" /></a>
 
 ## License
 
