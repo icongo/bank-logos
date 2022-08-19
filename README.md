@@ -1,7 +1,7 @@
-Bank Logos(svg)
+Bank Logos(612 svg)
 ===
 
-<a href="http://www.pbc.gov.cn"> <img src="./logos/pbc-rect.svg" width="42px" alt="中国人民银行"/></a>
+<a href="http://www.pbc.gov.cn"> <img src="./logos/pbc-rect.svg" width="42px" alt="中国人民银行" title="中国人民银行"/></a>
 <a href="https://www.boc.cn"> <img src="./logos/boc-rect.svg" width="42px" alt="中国银行"/></a>
 <a href="http://www.icbc.com.cn/icbc"> <img src="./logos/icbc-rect.svg" width="42px" alt="中国工商银行"/></a>
 <a href="https://www.abchina.com"> <img src="./logos/abchina-rect.svg" width="42px" alt="中国农业银行"/></a>
@@ -72,11 +72,24 @@ Bank Logos(svg)
 <a href="http://www.bd-bank.com.cn"> <img src="./logos/bd-bank-rect.svg" width="42px" alt="保定银行"/></a>
 <a href="https://www.cqrcb.com"> <img src="./logos/cqrcb-rect.svg" width="42px" alt="重庆农商"/></a>
 <a href="http://www.csrcbank.com"> <img src="./logos/csrcbank-rect.svg" width="42px" alt="常熟农商"/></a>
-<a href="http://www.cycb.com/"> <img src="./logos/cycb-rect.svg" width="42px" alt="朝阳银行"/></a>
+<a href="http://www.cycb.com"> <img src="./logos/cycb-rect.svg" width="42px" alt="朝阳银行"/></a>
 <a href="https://www.bocd.com.cn"> <img src="./logos/bocd-rect.svg" width="42px" alt="成都银行"/></a>
 <a href="http://www.cqcbank.com"> <img src="./logos/cqcbank-rect.svg" width="42px" alt="重庆银行"/></a>
-<a href="http://www.qdccb.com/"> <img src="./logos/qdccb-rect.svg" width="42px" alt="青岛银行"/></a>
-<a href="http://www.bankqh.com/"> <img src="./logos/bankqh-rect.svg" width="42px" alt="青海银行"/></a>
+<a href="http://www.qdccb.com"> <img src="./logos/qdccb-rect.svg" width="42px" alt="青岛银行"/></a>
+<a href="http://www.bankqh.com"> <img src="./logos/bankqh-rect.svg" width="42px" alt="青海银行"/></a>
+<a href="http://www.uccb.com.cn"> <img src="./logos/uccb-rect.svg" width="42px" alt="乌鲁木齐商业银行"/></a>
+<a href="http://www.bankoftieling.com"> <img src="./logos/bankoftieling-rect.svg" width="42px" alt="铁岭银行"/></a>
+<a href="http://www.whrcbank.com"> <img src="./logos/whrcbank-rect.svg" width="42px" alt="武汉农商"/></a>
+<a href="http://www.xacbank.com.cn"> <img src="./logos/xacbank-rect.svg" width="42px" alt="西安银行"/></a>
+<a href="https://m.ncbank.cn"> <img src="./logos/ncbank-rect.svg" width="42px" alt="宁波通商银行"/></a>
+<a href="https://www.ncbchina.cn"> <img src="./logos/ncbchina-rect.svg" width="42px" alt="南洋商业银行"/></a>
+<a href="http://www.bankofpj.com"> <img src="./logos/bankofpj-rect.svg" width="42px" alt="盘锦银行"/></a>
+<a href="http://www.srbank.cn"> <img src="./logos/srbank-rect.svg" width="42px" alt="上饶银行"/></a>
+<a href="http://www.sxccb.com"> <img src="./logos/sxccb-rect.svg" width="42px" alt="绍兴银行"/></a>
+<a href="https://www.dzccb.com.cn"> <img src="./logos/dzccb-rect.svg" width="42px" alt="达州银行"/></a>
+<a href="https://www.uobchina.com.cn"> <img src="./logos/uobchina-rect.svg" width="42px" alt="大华银行"/></a>
+<a href="http://www.dahsing.com"> <img src="./logos/dahsing-rect.svg" width="42px" alt="大新银行"/></a>
+<a href="https://www.ordosbank.com"> <img src="./logos/ordosbank-rect.svg" width="42px" alt="鄂尔多斯银行"/></a>
 
 
 <a href="http://www.pbc.gov.cn"> <img src="./logos/pbc.svg" width="135px" alt="中国人民银行"/></a>
