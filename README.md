@@ -70,6 +70,13 @@ Bank Logos(svg)
 <a href="http://www.bankofdl.com"> <img src="./logos/bankofdl-rect.svg" width="42px" alt="大连银行"/></a>
 <a href="https://www.bjrcb.com"> <img src="./logos/bjrcb-rect.svg" width="42px" alt="北京农商银行"/></a>
 <a href="http://www.bd-bank.com.cn"> <img src="./logos/bd-bank-rect.svg" width="42px" alt="保定银行"/></a>
+<a href="https://www.cqrcb.com"> <img src="./logos/cqrcb-rect.svg" width="42px" alt="重庆农商"/></a>
+<a href="http://www.csrcbank.com"> <img src="./logos/csrcbank-rect.svg" width="42px" alt="常熟农商"/></a>
+<a href="http://www.cycb.com/"> <img src="./logos/cycb-rect.svg" width="42px" alt="朝阳银行"/></a>
+<a href="https://www.bocd.com.cn"> <img src="./logos/bocd-rect.svg" width="42px" alt="成都银行"/></a>
+<a href="http://www.cqcbank.com"> <img src="./logos/cqcbank-rect.svg" width="42px" alt="重庆银行"/></a>
+<a href="http://www.qdccb.com/"> <img src="./logos/qdccb-rect.svg" width="42px" alt="青岛银行"/></a>
+<a href="http://www.bankqh.com/"> <img src="./logos/bankqh-rect.svg" width="42px" alt="青海银行"/></a>
 
 
 <a href="http://www.pbc.gov.cn"> <img src="./logos/pbc.svg" width="135px" alt="中国人民银行"/></a>
