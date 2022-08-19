@@ -30,7 +30,7 @@ Bank Logos(svg)
 <a href="http://www.czbank.com"> <img src="./logos/czbank-rect.svg" width="42px" alt="浙商银行"/></a>
 <a href="https://www.bankcz.com"> <img src="./logos/bankcz-rect.svg" width="42px" alt="沧州银行"/></a>
 <a href="https://www.lccb.com.cn"> <img src="./logos/lccb-rect.svg" width="42px" alt="廊坊银行"/></a>
-
+<a href="http://www.chengdebank.com"> <img src="./logos/chengdebank-rect.svg" width="42px" alt="承德银行"/></a>
 
 
 <a href="http://www.pbc.gov.cn/"> <img src="./logos/pbc.svg" width="135px" alt="中国人民银行"/></a>
@@ -62,3 +62,4 @@ Bank Logos(svg)
 <a href="http://www.czbank.com"> <img src="./logos/czbank.svg" width="135px" alt="浙商银行"/></a>
 <a href="https://www.bankcz.com"> <img src="./logos/bankcz.svg" width="135px" alt="沧州银行"/></a>
 <a href="https://www.lccb.com.cn"> <img src="./logos/lccb.svg" width="135px" alt="廊坊银行"/></a>
+<a href="http://www.chengdebank.com"> <img src="./logos/chengdebank.svg" width="135px" alt="承德银行"/></a>
