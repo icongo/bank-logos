@@ -1,4 +1,4 @@
-Bank Logos
+Bank Logos(svg)
 ===
 
 <a href="http://www.pbc.gov.cn/"> <img src="./icons/pbc.svg" width="42px" alt="中国人民银行"/></a>
@@ -15,6 +15,8 @@ Bank Logos
 <a href="https://www.psbc.com/cn/"> <img src="./icons/psbc.svg" width="42px" alt="中国邮政储蓄银行"/></a>
 <a href="http://www.bankofbeijing.com.cn/"> <img src="./icons/bankofbeijing.svg" width="42px" alt="北京银行"/></a>
 <a href="http://www.cgbchina.com.cn/"> <img src="./icons/cgbchina.svg" width="42px" alt="广发银行"/></a>
+<a href="http://www.cebbank.com/"> <img src="./icons/cebbank.svg" width="42px" alt="中国光大银行"/></a>
+<a href="http://www.eximbank.com/"> <img src="./icons/eximbank.svg" width="42px" alt="中国进出口银行"/></a>
 
 [![中国人民银行](./logos/pbc.svg)](http://www.pbc.gov.cn/)
 [![中国银行](./logos/boc.svg)](https://www.boc.cn/)
@@ -30,3 +32,5 @@ Bank Logos
 [![中国邮政储蓄银行](./logos/psbc.svg)](https://www.psbc.com/cn/)
 [![北京银行](./logos/bankofbeijing.svg)](http://www.bankofbeijing.com.cn/)
 [![广发银行](./logos/cgbchina.svg)](http://www.cgbchina.com.cn/)
+[![中国光大银行](./logos/cebbank.svg)](http://www.cebbank.com/)
+[![中国进出口银行](./logos/eximbank.svg)](http://www.eximbank.gov.cn/)
