@@ -1,6 +1,11 @@
 Bank Logos(612 svg)
 ===
 
+[![npm version](https://img.shields.io/npm/v/@icongo/bl.svg)](https://www.npmjs.com/package/@icongo/bl)
+![SVG Icons](https://shields.io/badge/SVG-icons-green?logo=svg&style=flat)
+![SVG Icons](https://shields.io/badge/TypeScript-Support-green?logo=TypeScript&style=flat)
+![React Components](https://shields.io/badge/React-components-green?logo=react&style=flat)
+
 <a href="http://www.pbc.gov.cn"> <img src="./logos/pbc-rect.svg" width="42px" alt="中国人民银行" title="中国人民银行" /></a>
 <a href="https://www.boc.cn"> <img src="./logos/boc-rect.svg" width="42px" alt="中国银行" title="中国银行" /></a>
 <a href="http://www.icbc.com.cn/icbc"> <img src="./logos/icbc-rect.svg" width="42px" alt="中国工商银行" title="中国工商银行" /></a>
@@ -161,6 +166,61 @@ Bank Logos(612 svg)
 <a href="http://www.wuhaicb.com"> <img src="./logos/wuhaicb-rect.svg" width="42px" alt="乌海银行" title="乌海银行" /></a>
 <a href="http://www.xynsh.com"> <img src="./logos/xynsh-rect.svg" width="42px" alt="新沂农商" title="新沂农商" /></a>
 <a href="https://www.dbs.com.cn"> <img src="./logos/dbs-rect.svg" width="42px" alt="星展银行" title="星展银行" /></a>
+<a href="https://www.bcm.com.mo"> <img src="./logos/bcm-rect.svg" width="42px" alt="澳门商业银行" title="澳门商业银行" /></a>
+<a href="https://www.gx966888.com"> <img src="./logos/gx966888-rect.svg" width="42px" alt="广西农村信用社" title="广西农村信用社" /></a>
+<a href="https://www.guilinbank.com.cn"> <img src="./logos/guilinbank-rect.svg" width="42px" alt="桂林银行" title="桂林银行" /></a>
+<a href="https://www.hrbb.com.cn"> <img src="./logos/hrbb-rect.svg" width="42px" alt="哈尔滨银行" title="哈尔滨银行" /></a>
+<a href="https://hdcb.cn"> <img src="./logos/hdcb-rect.svg" width="42px" alt="邯郸银行" title="邯郸银行" /></a>
+<a href="http://www.kbstarchina.com"> <img src="./logos/kbstarchina-rect.svg" width="42px" alt="韩国国民银行" title="韩国国民银行" /></a>
+<a href="https://global.ibk.co.kr"> <img src="./logos/ibk-rect.svg" width="42px" alt="韩国企业银行" title="韩国企业银行" /></a>
+<a href="http://www.hfrcbc.com"> <img src="./logos/hfrcbc-rect.svg" width="42px" alt="合肥科技农商" title="合肥科技农商" /></a>
+<a href="http://www.jnbank.cc"> <img src="./logos/jnbank-rect.svg" width="42px" alt="合肥科技农商" title="合肥科技农商" /></a>
+<a href="http://www.jjbank.net"> <img src="./logos/jjbank-rect.svg" width="42px" alt="江苏靖江农商" title="江苏靖江农商" /></a>
+<a href="http://www.jrnsh.cn"> <img src="./logos/jrnsh-rect.svg" width="42px" alt="江苏句容农商" title="江苏句容农商" /></a>
+<a href="http://www.jsyxrcb.com"> <img src="./logos/jsyxrcb-rect.svg" width="42px" alt="江苏宜兴农商" title="江苏宜兴农商" /></a>
+<a href="http://www.cjccb.com"> <img src="./logos/cjccb-rect.svg" width="42px" alt="江苏长江商业银行" title="江苏长江商业银行" /></a>
+<a href="http://www.bolz.cn"> <img src="./logos/bolz-rect.svg" width="42px" alt="柳州银行" title="柳州银行" /></a>
+<a href="https://www.lj-bank.com"> <img src="./logos/lj-bank-rect.svg" width="42px" alt="龙江银行" title="龙江银行" /></a>
+<a href="https://www.lqrcb.com"> <img src="./logos/lqrcb-rect.svg" width="42px" alt="路桥农村合作银行" title="路桥农村合作银行" /></a>
+<a href="https://www.qlbchina.com"> <img src="./logos/qlbchina-rect.svg" width="42px" alt="齐鲁银行" title="齐鲁银行" /></a>
+<a href="http://www.qjccb.com"> <img src="./logos/qjccb-rect.svg" width="42px" alt="曲靖市商业银行" title="曲靖市商业银行" /></a>
+<a href="http://www.qzccbank.com"> <img src="./logos/qzccbank-rect.svg" width="42px" alt="泉州银行" title="泉州银行" /></a>
+<a href="https://www.bankofrizhao.com.cn"> <img src="./logos/bankofrizhao-rect.svg" width="42px" alt="日照银行" title="日照银行" /></a>
+<a href="https://www.ubs.com"> <img src="./logos/ubs-rect.svg" width="42px" alt="瑞士银行" title="瑞士银行" /></a>
+<a href="https://www.tf.cn"> <img src="./logos/tf-rect.svg" width="42px" alt="四川天府银行" title="四川天府银行" /></a>
+<a href="http://www.srcb.com"> <img src="./logos/srcb-rect.svg" width="42px" alt="上海农商" title="上海农商" /></a>
+<a href="https://www.csxbank.com"> <img src="./logos/csxbank-rect.svg" width="42px" alt="三湘银行" title="三湘银行" /></a>
+<a href="https://www.xib.com.cn"> <img src="./logos/xib-rect.svg" width="42px" alt="厦门国际银行" title="厦门国际银行" /></a>
+<a href="http://www.sdnxs.com"> <img src="./logos/sdnxs-rect.svg" width="42px" alt="山东省农村信用社" title="山东省农村信用社" /></a>
+<a href="https://www.yamaguchibank.co.jp"> <img src="./logos/yamaguchibank-rect.svg" width="42px" alt="山口银行" title="山口银行" /></a>
+<a href="http://www.szsccb.com"> <img src="./logos/szsccb-rect.svg" width="42px" alt="石嘴山银行" title="石嘴山银行" /></a>
+<a href="http://www.sdebank.com"> <img src="./logos/sdebank-rect.svg" width="42px" alt="顺德农商" title="顺德农商" /></a>
+<a href="https://www.snccb.com"> <img src="./logos/snccb-rect.svg" width="42px" alt="遂宁银行" title="遂宁银行" /></a>
+<a href="https://www.shengjingbank.com.cn"> <img src="./logos/shengjingbank-rect.svg" width="42px" alt="盛京银行" title="盛京银行" /></a>
+<a href="http://www.suzhoubank.com"> <img src="./logos/suzhoubank-rect.svg" width="42px" alt="苏州银行" title="苏州银行" /></a>
+<a href="https://www.yantaibank.net"> <img src="./logos/yantaibank-rect.svg" width="42px" alt="烟台银行" title="烟台银行" /></a>
+<a href="http://www.bankofyk.com"> <img src="./logos/bankofyk-rect.svg" width="42px" alt="营口银行" title="营口银行" /></a>
+<a href="http://bank.sinopac.com.cn"> <img src="./logos/sinopac-rect.svg" width="42px" alt="永丰银行" title="永丰银行" /></a>
+<a href="http://www.csrc.gov.cn"> <img src="./logos/csrc-rect.svg" width="42px" alt="证监会" title="证监会" /></a>
+<a href="https://www.zaozhuangbank.com"> <img src="./logos/zaozhuangbank-rect.svg" width="42px" alt="枣庄银行" title="枣庄银行" /></a>
+<a href="https://www.sc.com"> <img src="./logos/sc-rect.svg" width="42px" alt="枣庄银行" title="枣庄银行" /></a>
+<a href="https://www.zxbk.com.cn"> <img src="./logos/zxbk-rect.svg" width="42px" alt="正信银行" title="正信银行" /></a>
+<a href="https://www.ccabchina.com"> <img src="./logos/ccabchina-rect.svg" width="42px" alt="长安银行" title="长安银行" /></a>
+<a href="http://www.lygdfrcb.com"> <img src="./logos/lygdfrcb-rect.svg" width="42px" alt="连云港东方农商" title="连云港东方农商" /></a>
+<a href="https://www.ccabchina.com"> <img src="./logos/ccabchina-rect.svg" width="42px" alt="大同银行" title="大同银行" /></a>
+<a href="https://www.maybank.com"> <img src="./logos/maybank-rect.svg" width="42px" alt="马来亚银行" title="马来亚银行" /></a>
+<a href="https://www.meigin.com"> <img src="./logos/meigin-rect.svg" width="42px" alt="名古屋银行" title="名古屋银行" /></a>
+<a href="https://www.rbcroyalbank.com"> <img src="./logos/rbcroyalbank-rect.svg" width="42px" alt="加拿大皇家银行" title="加拿大皇家银行" /></a>
+<a href="https://www.abnamro.com"> <img src="./logos/abnamro-rect.svg" width="42px" alt="荷兰银行" title="荷兰银行" /></a>
+<a href="https://home.barclays"> <img src="./logos/barclays-rect.svg" width="42px" alt="巴克莱银行" title="巴克莱银行" /></a>
+<a href="https://www.anz.com.au"> <img src="./logos/anz-rect.svg" width="42px" alt="澳新银行" title="澳新银行" /></a>
+<a href="http://dandongbank.com"> <img src="./logos/dandongbank-rect.svg" width="42px" alt="丹东银行" title="丹东银行" /></a>
+<a href="http://www.xjkccb.cn"> <img src="./logos/xjkccb-rect.svg" width="42px" alt="库尔勒市商业银行" title="库尔勒市商业银行" /></a>
+<a href="http://www.jtnsh.com"> <img src="./logos/jtnsh-rect.svg" width="42px" alt="九台农商" title="九台农商" /></a>
+<a href="http://luoyang.szgold.com.cn"> <img src="./logos/luoyang-szgold-rect.svg" width="42px" alt="洛阳银行" title="洛阳银行" /></a>
+<a href="https://www.mycc-bank.com"> <img src="./logos/mycc-rect.svg" width="42px" alt="绵阳商业银行" title="绵阳商业银行" /></a>
+<a href="http://www.masrcb.com"> <img src="./logos/masrcb-rect.svg" width="42px" alt="马鞍山农商" title="马鞍山农商" /></a>
+<a href="https://www.bk.mufg.jp"> <img src="./logos/mufg-rect.svg" width="42px" alt="东京三菱银行" title="东京三菱银行" /></a>
 
 ```jsx
 import { BLBankcomm } from '@icongo/bl';
