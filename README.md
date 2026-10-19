@@ -38,7 +38,6 @@ Bank Logos(612 svg)
 <a href="http://www.chengdebank.com"> <img src="./logos/chengdebank-rect.svg" width="42px" alt="承德银行" title="承德银行" /></a>
 <a href="http://www.scnhh.com"> <img src="./logos/scnhh-rect.svg" width="42px" alt="安徽舒城农村商业银行" title="安徽舒城农村商业银行" /></a>
 <a href="http://www.bankofas.com"> <img src="./logos/bankofas-rect.svg" width="42px" alt="鞍山银行" title="鞍山银行" /></a>
-<a href="http://www.zgbank.com.cn"> <img src="./logos/zgbank-rect.svg" width="42px" alt="自贡银行" title="自贡银行" /></a>
 <a href="http://www.zhnsb.com.cn"> <img src="./logos/zhnsb-rect.svg" width="42px" alt="珠海农商银行" title="珠海农商银行" /></a>
 <a href="http://www.zybank.com.cn"> <img src="./logos/zybank-rect.svg" width="42px" alt="中原银行" title="中原银行" /></a>
 <a href="http://www.zsebank.com"> <img src="./logos/zsebank-rect.svg" width="42px" alt="中山农商" title="中山农商" /></a>
@@ -262,7 +261,6 @@ import names from '@icongo/bl/names.json';
 <a href="http://www.chengdebank.com"> <img src="./logos/chengdebank.svg" width="135px" alt="承德银行"/></a>
 <a href="http://www.scnhh.com"> <img src="./logos/scnhh.svg" width="135px" alt="安徽舒城农村商业银行" title="安徽舒城农村商业银行" /></a>
 <a href="http://www.bankofas.com"> <img src="./logos/bankofas.svg" width="135px" alt="鞍山银行" title="鞍山银行" /></a>
-<a href="http://www.zgbank.com.cn"> <img src="./logos/zgbank.svg" width="135px" alt="自贡银行" title="自贡银行" /></a>
 <a href="http://www.zhnsb.com.cn"> <img src="./logos/zhnsb.svg" width="135px" alt="珠海农商银行" title="珠海农商银行" /></a>
 <a href="http://www.zybank.com.cn"> <img src="./logos/zybank.svg" width="135px" alt="中原银行" title="中原银行" /></a>
 <a href="http://www.zsebank.com"> <img src="./logos/zsebank.svg" width="135px" alt="中山农商" title="中山农商" /></a>
